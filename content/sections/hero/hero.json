@@ -1,22 +1,21 @@
 {
-  "intro": "Hej",
+  "intro": "Elle Brough",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/wrench.png",
+    "alt": "Wrench Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Student at CMU",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Mechanical Engineering and Biomedical Engineering",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "How to get in touch with me",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
